@@ -1,17 +1,15 @@
-# NSTX-U / UTK TENSORFLOW Directory
-## Contains tensorflow scripts for CNNs, RNNs, etc.
+# NSTX-U / UTK Masters Project Files
+## Contains Tom's software for masters thesis.
 
-All scripts are located in the ./scripts directory.  The latest revision utilizes a CNN that predicts S and lambda.  
+<<<<<<< HEAD
 
-To run the latest scripts that are in the ./scripts directory, you will need the weights for the CNN matrix.
-These weights are not included here, and must be created by running the 'training' script before the 
-'prediction' scripts.
+Folders in this directory:
 
-There may be some path references that you need to change, but I always define paths at the top of the code to make it easy.
-
-There are many previous revision that may or may not work included in the ./scripts/old_revs directory.
-Additionally, in the scripts directory there is a cleaner script, a data mover script, a newtons method script,
-and a couple others.  To train a model, run the SLam_predictor.py script.  To test a model, run the 
-SLam_tester.py script.
-
-
+TENSORFLOW:		CNNs, RNNs, random scripts, AI stuff
+ANSYS:			ANSYS ACT Extension.  Heat flux importer / batch mode scripts
+FLUX_GENERATOR:		FORTRAN Monte Carlo Eich Heat Flux Profile Generator
+=======
+Two folders are in this directory.  A fluxgenny folder, which contains
+ANSYS and flux generator scripts, as well as a tensorflow directory, which
+contains AI / Deep learning stuff.
+>>>>>>> ff3b54b840e19830aa3b91b0d821df20441b6362
