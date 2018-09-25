@@ -1,0 +1,16 @@
+<extension version="1" minorversion="0" name="FluxImport2">  
+  <script src="C:\Program Files\ANSYS Student\v182\Addins\ACT\extensions\FluxImport2\FluxImport2.py" />
+  <interface context="Mechanical">
+    <images>C:\Program Files\ANSYS Student\v182\Addins\ACT\extensions\FluxImport2\images</images>
+    <callbacks>
+      <oninit>init</oninit>
+    </callbacks>
+    <toolbar name="Flux Profile" caption="NSTX-U Add Heat Flux Profile">
+      <entry name="Add Flux" icon="fire">
+        <callbacks>
+          <onclick>OnClickB1</onclick>
+		</callbacks>
+      </entry>
+    </toolbar>  
+  </interface>
+</extension>

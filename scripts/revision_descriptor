@@ -1,0 +1,10 @@
+cnn_20180604.py  Basic TF train / tester.  Trains then saves all variables.
+
+
+cnn_20180701.py  Tests model only.  No training.  Outputs mean and stddev of independent shots C values
+
+cnn_20180709.py  Continues training a previously saved model
+
+cnn_20180719.py  Tests model only.  Outputs S and lambda_q
+
+cnn_20180721.py  Training. Can import model.  Uses Triplets of input data.
