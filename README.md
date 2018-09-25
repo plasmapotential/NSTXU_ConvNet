@@ -1,8 +1,6 @@
 # NSTX-U / UTK Masters Project Files
 ## Contains Tom's software for masters thesis.
 
-<<<<<<< HEAD
-
 Folders in this directory:
 
 TENSORFLOW:		CNNs, RNNs, random scripts, AI stuff
