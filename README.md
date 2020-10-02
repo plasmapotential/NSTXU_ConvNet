@@ -1,5 +1,6 @@
 # NSTX-U / UTK Masters Project Files
 ## Contains Tom's software for masters thesis.
+## Convolutional Neural Networks for Heat Flux Model Validation on NSTX-U
 
 ### Folders in this directory:
 
